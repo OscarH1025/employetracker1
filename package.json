@@ -1,0 +1,27 @@
+{
+  "name": "tracker",
+  "version": "1.0.0",
+  "description": "<img width=\"1381\" alt=\"Screen Shot 2022-01-12 at 10 06 12 PM\" src=\"https://user-images.githubusercontent.com/87283933/149258787-27d88a3d-25d7-434a-b1d3-6d58b0143b8b.png\">",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OscarH1025/employetracker1"
+  },
+  "keywords": [],
+  "author": "Oscar Hurtado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OscarH1025/employetracker1/issues"
+  },
+  "homepage": "https://github.com/OscarH1025/employetracker1#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquire": "^0.4.8",
+    "mysql2": "^2.3.3"
+  },
+  "devDependencies": {}
+}
