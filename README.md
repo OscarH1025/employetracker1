@@ -6,6 +6,10 @@ Employee tracker is a program that allows you to view and manage the departments
 
 
 
+https://user-images.githubusercontent.com/99852993/183137407-93eb1cdb-4c6c-4572-8a8c-66512ffd63fa.mp4
+
+
+
 
 
 ## Questions
